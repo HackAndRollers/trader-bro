@@ -1,2 +1,3 @@
 # trader-bro
-C++ Orderbook
+We are trying to build a C++ Trading Application Project for Resume
+
